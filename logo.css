@@ -1,0 +1,120 @@
+.but_block{
+	height: 100px;
+	background: #161616;
+	
+	color: white;
+	font-family: Arial;
+	font-weight: 550;
+	padding-top: 10px;
+	box-sizing: border-box;
+	padding-left: 20px;
+
+}
+.sky_block{
+	background: #161616;
+	height: 90px;
+	padding-top: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	color: white;
+	font-family: Arial;
+	font-weight: 550;
+}
+.photo_main{
+	background-image: url(logo_starBat.jpg);
+	background-size: 1567px 1000px;
+	width: 1567px;
+	height: 1000px;
+	padding-top: 200px;
+	box-sizing: border-box;
+	padding-left: 680px;
+}
+.flex{
+	display: flex;
+}
+.href{
+	text-decoration: none;
+	color: white;
+	margin-left: 5px;
+}
+.p{
+	color: white;
+	font-family: Arial;
+	font-size: 25px;
+	font-weight: 550;
+}
+.p_in{
+	margin-left: 20px;
+}
+.a_in{
+	text-decoration: none;
+	color: white;
+	font-weight: 550;
+	margin-left: 20px;
+}
+.reg_block{
+	margin-top: 16px;
+	margin-left: 780px;
+}
+.inp{
+	margin-top: 10px;
+	border: 1px solid white;
+	border-radius: 4px;
+	margin: 8px;
+	outline: none;
+	padding: 8px;
+	width: 180px;
+}
+.inp_0{
+	margin-top: 10px;
+	border: 1px solid white;
+	border-radius: 4px;
+	margin: 8px;
+	outline: none;
+	padding: 8px;
+	width: 180px;
+}
+.p1{
+	color: black;
+	font-size: 20px;
+	font-weight: 550;
+	font-family: Arial;
+	margin-left: 60px;
+}
+.btn{
+	margin-left: 35px;
+	padding: 8px;
+	border-radius: 5px;
+	border: 1px white;
+}
+.p2{
+	color: black;
+	font-size: 20px;
+	font-weight: 550;
+	font-family: Arial;
+	margin-left: 10px;
+}
+.inp1{
+	margin-top: 10px;
+	border: 1px solid white;
+	border-radius: 4px;
+	margin: 8px;
+	outline: none;
+	padding: 8px;
+	width: 180px;
+}
+.inp_1{
+	margin-top: 10px;
+	border: 1px solid white;
+	border-radius: 4px;
+	margin: 8px;
+	outline: none;
+	padding: 8px;
+	width: 180px;
+}
+.btn1{
+	margin-left: 80px;
+	padding: 8px;
+	border-radius: 5px;
+	border: 1px white;
+}

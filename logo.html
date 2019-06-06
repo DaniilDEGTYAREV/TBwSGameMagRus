@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="logo.css">
+	<title>TBwS - GamesMagRusLogo.ru</title>
+</head>
+<body>
+	<div class="sky_block flex">
+		<p class="p_in"><a href="index.html" class="href">Главная</a></p>
+		<p class="p_in"><a href="kabinet.html" class="href">Личный Кабинет</a></p>
+		<p class="p_in"><a href="infoDeveloper.html" class="href">О Разработчике</a></p>
+		<div class="reg_block flex">
+			<a href="logo.html" class="a_in">Регистрация и Вход</a>
+		</div>
+	</div>
+	<div class="photo_main">
+		
+		<div class="block">
+			<p class="p2">
+				Зарегистрируйтесь
+			</p>
+			<div>
+				<input class="inp" placeholder="Создайте почту или номер">
+			</div>
+			<div>
+				<input class="inp_0" placeholder="Создайте пароль">
+			</div>
+			<button class="btn">Зарегистрироваться</button>
+		</div>
+		<div class="block">
+			<p class="p1">
+				Войдите
+			</p>
+			<div>
+				<input class="inp1" placeholder="Введите почту или номер">
+			</div>
+			<div>
+				<input class="inp_1" placeholder="Введите пароль">
+			</div>
+			<button class="btn1">Войти</button>
+		</div>
+	</div>
+	<div class="but_block">
+		<p>
+			Company - Danya International
+		</p>
+		<p>	
+			Developer - Daniil Degtyarev
+		</p>
+	</div>
+	<script type="text/javascript">
+		let inp = document.querySelector(".inp");
+		let inp_0 = document.querySelector(".inp_0");
+		let inp1 = document.querySelector(".inp1");
+		let inp_1 = document.querySelector(".inp_1");
+		let btn = document.querySelector(".btn");
+		let btn1 = document.querySelector(".btn1");
+			btn.onclick = function(){
+				if(inp.value == 'dan2005' & inp_0.value == '1xbet'){
+					alert('Вы зарегистрированы!')
+				} else{
+					alert('Ошибка!')
+				}
+			}
+			btn1.onclick = function(){
+				if(inp1.value == 'dan2005' && inp_1.value == '1xbet'){
+					alert('Вы вошли')
+				}else{
+					alert('Логин или пароль непрвильны!')
+				}
+			}
+	</script>
+</body>
+</html>

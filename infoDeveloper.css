@@ -1,0 +1,67 @@
+.but_block{
+	height: 100px;
+	background: #161616;
+	margin-top: 120px;
+	color: white;
+	font-family: Arial;
+	font-weight: 550;
+	padding-top: 10px;
+	box-sizing: border-box;
+	padding-left: 20px;
+
+}
+.sky_block{
+	background: #161616;
+	height: 90px;
+	padding-top: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	color: white;
+	font-family: Arial;
+	font-weight: 550;
+}
+.photo_main{
+	background-image: url(main_pubg.jpg);
+	background-size: 1565px 1000px;
+	width: 1567px;
+	height: 1000px;
+	padding-top: 80px;
+	box-sizing: border-box;
+
+}
+.block{
+	background: #161616;
+	width: 1200px;
+	height: 700px;
+	margin-left: 200px;
+	padding-left: 10px;
+	padding-top: 10px;
+	box-sizing: border-box;
+}
+.flex{
+	display: flex;
+}
+.p_in{
+	margin-left: 20px;
+}
+.a_in{
+	text-decoration: none;
+	color: white;
+	font-weight: 550;
+	margin-left: 20px;
+}
+.reg_block{
+	margin-top: 16px;
+	margin-left: 780px;
+}
+.p{
+	color: white;
+	font-family: Arial;
+	font-size: 25px;
+	font-weight: 550;
+}
+.href{
+	text-decoration: none;
+	color: white;
+	margin-left: 5px;
+}

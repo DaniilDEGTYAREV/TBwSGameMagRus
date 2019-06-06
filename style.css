@@ -1,0 +1,193 @@
+.flex{
+	display: flex;
+}
+
+.photo_main{
+	background-image: url(main_pubg.jpg);
+	background-size: 1570px 1800px;
+	width: 1570px;
+	height: 1800px;
+	padding-top: 100px;
+	box-sizing: border-box;
+}
+.bf5_block{
+	background-image: url(bf5.jpg);
+	background-size: 1100px 600px;
+	width: 1100px;
+	height: 600px;
+	margin-left: 250px;
+	padding-top: 250px;
+	box-sizing: border-box;
+	box-shadow: 1px 0px 30px 0px white;
+}
+.photo{
+	background-image: url(starwars.jpg);
+	background-size: 350px 220px;
+	width: 350px;
+	height: 220px;
+	box-shadow: 1px 0px 30px 0px white;
+	padding-top: 60px;
+	box-sizing: border-box;
+}
+.photo_1{
+	background-image: url(minecraft.jpg);
+	background-size: 350px 220px;
+	width: 350px;
+	height: 220px;
+	box-shadow: 1px 0px 30px 0px white;
+	margin-left: 20px;
+	padding-top: 60px;
+	box-sizing: border-box;
+}
+.photo_2{
+	background-image: url(starwars2.jpg);
+	background-size: 360px 220px;
+	width: 360px;
+	height: 220px;
+	box-shadow: 1px 0px 30px 0px white;
+	margin-left: 20px;
+	padding-top: 60px;
+	box-sizing: border-box;
+}
+.photo_3{
+	background-image: url(csgo.jpg);
+	background-size: 420px 220px;
+	width: 420px;
+	height: 220px;
+	box-shadow: 1px 0px 30px 0px white;
+	margin-left: 20px;
+	padding-top: 60px;
+	box-sizing: border-box;
+}
+.photo_4{
+	background-image: url(bf1.jpg);
+	background-size: 420px 220px;
+	width: 420px;
+	height: 220px;
+	box-shadow: 1px 0px 30px 0px white;
+	margin-left: 20px;
+	padding-top: 60px;
+	box-sizing: border-box;
+}
+.photo_5{
+	background-image: url(pubg.jpg);
+	background-size: 500px 250px;
+	width: 500px;
+	height: 250px;
+	box-shadow: 1px 0px 30px 0px white;
+	margin-left: 20px;
+	padding-top: 60px;
+	box-sizing: border-box;
+}
+.margin-left{
+	margin-left: 250px;
+}
+.margin-left1{
+	margin-left: 350px;
+}
+.margin-left2{
+	margin-left: 550px;
+}
+.margin-top{
+	margin-top: 20px;
+}
+.p{
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	box-shadow: 3px 3px 40px 3px blue;
+	display: none;
+}
+.p1{
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	box-shadow: 3px 3px 40px 3px blue;
+	display: none;
+}
+.p2{
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	box-shadow: 3px 3px 40px 3px blue;
+	display: none;
+}
+.p3{
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	box-shadow: 3px 3px 40px 3px blue;
+	display: none;
+}
+.p4{
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	box-shadow: 3px 3px 40px 3px blue;
+	display: none;
+}
+.p5{
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	box-shadow: 3px 3px 40px 3px blue;
+	display: none;
+}
+.a{
+	text-decoration: none;
+	color: white;
+}
+.but_block{
+	height: 100px;
+	background: #161616;
+	margin-top: 250px;
+	color: white;
+	font-family: Arial;
+	font-weight: 550;
+	padding-top: 10px;
+	box-sizing: border-box;
+	padding-left: 20px;
+}
+.sky_block{
+	background: #161616;
+	height: 90px;
+	padding-top: 20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	color: white;
+	font-family: Arial;
+	font-weight: 550;
+}
+.a_in{
+	text-decoration: none;
+	color: white;
+	font-weight: 550;
+	margin-left: 20px;
+}
+.reg_block{
+	margin-top: 16px;
+	margin-left: 780px;
+}
+.p_in{
+	margin-left: 20px;
+
+}
+.p_bf5{
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	box-shadow: 3px 3px 40px 3px blue;
+	display: none;
+}
+.href{
+	text-decoration: none;
+	color: white;
+	margin-left: 5px;
+}
